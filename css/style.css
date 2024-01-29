@@ -1253,7 +1253,7 @@ section {
 }
 
 .dark-scheme section {
-    background: var(--dark-scheme-color);
+    background: transparent;
 }
 
 section.no-bg,
